@@ -1,3 +1,2 @@
-# hello-anh
-This repository is for practicing the GitHub Flow. My name is Anh. Hello, how are you? 
+This is Anh's practice exercise with using Git on a local machine 
 
